@@ -1,0 +1,17 @@
+@import './assets/scss_styles/_global-imports.scss';
+
+.App {
+   height: 100vh;
+   background: url(./assets/images/bg.webp);
+   color: $color_white;
+   scroll-snap-type: y mandatory;
+   scroll-behavior: smooth;
+   overflow-y: auto;
+   scrollbar-width: none;
+
+
+   section {
+      scroll-snap-align: center;
+      height: 100vh;
+   }
+}

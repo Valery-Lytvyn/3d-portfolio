@@ -1,0 +1,36 @@
+@import '../../../assets/scss_styles/global-imports';
+
+.navbar {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   .linkSection {
+      display: flex;
+
+      .logo {
+         height: 3.125rem;
+
+         & img {
+            height: 100%;
+         }
+      }
+
+      .navLink {
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         list-style: none;
+
+         .navItem {
+            cursor: pointer;
+         }
+      }
+   }
+
+   .searchSection {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+   }
+}

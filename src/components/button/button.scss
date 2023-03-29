@@ -1,0 +1,10 @@
+@import '../../assets/scss_styles/variables';
+
+.button {
+   background-color: $color_pink;
+   border: none;
+   color: $color_white;
+   border-radius: 5px;
+   cursor: pointer;
+   height: 2.5rem;
+}
