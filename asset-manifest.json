@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/3d-portfolio/static/css/main.f3862d90.css",
+    "main.js": "/3d-portfolio/static/js/main.5dabdfe6.js",
+    "static/media/astronaut.png": "/3d-portfolio/static/media/astronaut.67ed42b3a2b09641bf3d.png",
+    "static/media/wing-transformed.glb": "/3d-portfolio/static/media/wing-transformed.831a07cc43514d62ef77.glb",
+    "static/media/ukr_made.png": "/3d-portfolio/static/media/ukr_made.157b70848ff5e393ff29.png",
+    "static/media/bg.webp": "/3d-portfolio/static/media/bg.bdb9203f994896f3628e.webp",
+    "static/media/logo.png": "/3d-portfolio/static/media/logo.6aa302bdebd6b3d26a86.png",
+    "index.html": "/3d-portfolio/index.html",
+    "main.f3862d90.css.map": "/3d-portfolio/static/css/main.f3862d90.css.map",
+    "main.5dabdfe6.js.map": "/3d-portfolio/static/js/main.5dabdfe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3862d90.css",
+    "static/js/main.5dabdfe6.js"
+  ]
+}
